@@ -11,7 +11,7 @@ services:
       # Website roots
       - ./data/latest:/usr/local/apache2/htdocs/osioki.jp:ro
     environment:
-      - TZ=Asia/Tokyo
+      - TZ="Asia/Tokyo"
 
 networks:
   docker-global:
