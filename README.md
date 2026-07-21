@@ -15,7 +15,7 @@ Rest in peace レアちゃん.
 * [Twitter](https://x.com/Leasaaan)
 * [ツイフィール](https://twpf.jp/Leasaaan)
 * [Pixiv](https://www.pixiv.net/en/users/89140)
-* [YouTube](https://www.youtube.com/@user-ms2rn6cz6q)
+* [YouTube](https://www.youtube.com/@%E3%83%AC%E3%82%A2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AB%E3%82%83%E3%82%93%E3%81%AB%E3%82%83%E3%82%93)
 * [ニコニコ動画](https://www.nicovideo.jp/user/2079073)
 * [Mirrativ](https://www.mirrativ.com/user/5172587)
 * [「お仕置きですよ」](https://osioki.jp)
