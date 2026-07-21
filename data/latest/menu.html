@@ -1,98 +1,90 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="robots" content="noindex, nofollow, noarchive" />
+		<title>「お仕置きですよ」 - メニュー</title>
+		<link rel="icon" href="favicon.ico" />
+		<link rel="icon" href="favicon.png" type="image/png" sizes="192x192" />
+		<link rel="apple-touch-icon" href="favicon_home.png" />
+		<link rel="stylesheet" href="reset.css" />
+		<link rel="stylesheet" href="style.css" />
+		<script src="js/jquery-3.0.0.min.js"></script>
+		<script src="js/menu.js"></script>
+		<script src="js/guide.js"></script>
+	</head>
 
+	<body id="Menu">
+		<!-- 案内 -->
+		<div class="guide">
+			<div class="stat">
+				<div class="count"></div>
+				<iframe src="counter/counter.php" scrolling="no"></iframe>
 
-<head>
-
-	<meta charset="UTF-8">
-	<meta name="robots" content="noindex, nofollow, noarchive">
-	<title>「お仕置きですよ」 - メニュー</title>
-	<link rel="icon" href="favicon.ico">
-	<link rel="icon" href="favicon.png" type="image/png" sizes="192x192">
-	<link rel="apple-touch-icon" href="favicon_home.png">
-	<link rel="stylesheet" href="reset.css">
-	<link rel="stylesheet" href="style.css">
-	<script src="js/jquery-3.0.0.min.js"></script>
-	<script src="js/menu.js"></script>
-	<script src="js/guide.js"></script>
-
-</head>
-
-
-<body id="Menu">
-
-
-	<!-- 案内 -->
-	<div class="guide">
-
-		<div class="stat">
-
-			<div class="count"></div>
-			<iframe src="counter/counter.php" scrolling="no"></iframe>
-
-			<div class="time">
-				<span id="js_clockHour"></span><span id="js_clockColon">:</span><span id="js_clockMin"></span>
+				<div class="time">
+					<span id="js_clockHour"></span><span id="js_clockColon">:</span
+					><span id="js_clockMin"></span>
+				</div>
 			</div>
 
+			<div class="view">
+				<div class="show"></div>
+			</div>
+
+			<div class="talk">
+				<p>
+					<!-- js_talk -->
+				</p>
+			</div>
 		</div>
 
-		<div class="view">
-			<div class="show"></div>
+		<!-- メニュー -->
+		<ul class="menu">
+			<li class="First on">
+				<a target="main" href="../MISSING/about.html">はじめに</a>
+			</li>
+			<li class="Gallery on">
+				<a target="main" href="../MISSING/gallery.html">おにいさま</a>
+			</li>
+			<li class="Play on">
+				<a target="main" href="../MISSING/play_niku.html">あそぶ</a>
+			</li>
+			<li class="Hell on">
+				<a target="main" href="../MISSING//hell.html">いきどまり</a>
+			</li>
+			<li class="Links on"><a target="main" href="links.html">つながり</a></li>
+			<li class="Under off">あきらめる</li>
+		</ul>
+
+		<!-- ツール -->
+		<div class="tool">
+			<ul class="list">
+				<li class="Gate on">GATE</li>
+				<li class="Look off">LOOK</li>
+				<li class="Clap on"><a target="main">CLAP</a></li>
+				<li class="Top on"><a target="main" href="top.html">TOP</a></li>
+			</ul>
 		</div>
 
-		<div class="talk">
-			<p>
-			<!-- js_talk -->
-			</p>
+		<!-- ツールポップアップ -->
+		<div class="popup Gate hidden">
+			<ul>
+				<li class="Twitter on">
+					<a target="_blank" href="http://twitter.com/Leasaaan">TWITTER</a>
+				</li>
+				<li class="Pixiv on">
+					<a target="_blank" href="http://www.pixiv.net/member.php?id=89140"
+						>PIXIV</a
+					>
+				</li>
+			</ul>
 		</div>
 
-	</div>
+		<div class="popup Look hidden">
+			<ul></ul>
+		</div>
 
-
-	<!-- メニュー -->
-	<ul class="menu">
-		<li class="First on"><a target="main" href="about.html">はじめに</a></li>
-		<li class="Gallery on"><a target="main" href="gallery.html">おにいさま</a></li>
-		<li class="Play on"><a target="main" href="play_niku.html">あそぶ</a></li>
-		<li class="Hell on"><a target="main" href="http://osioki.jp/hell/">いきどまり</a></li>
-		<li class="Links on"><a target="main" href="links.html">つながり</a></li>
-		<li class="Under off">あきらめる</li>
-	</ul>
-
-
-	<!-- ツール -->
-	<div class="tool">
-
-		<ul class="list">
-			<li class="Gate on">GATE</li>
-			<li class="Look off">LOOK</li>
-			<li class="Clap on"><a target="main" href="clap.cgi">CLAP</a></li>
-			<li class="Top on"><a target="main" href="top.html">TOP</a></li>
-		</ul>
-
-	</div>
-
-
-	<!-- ツールポップアップ -->
-	<div class="popup Gate hidden">
-
-		<ul>
-			<li class="Twitter on"><a target="_blank" href="http://twitter.com/Leasaaan">TWITTER</a></li>
-			<li class="Pixiv on"><a target="_blank" href="http://www.pixiv.net/member.php?id=89140">PIXIV</a></li>
-		</ul>
-
-	</div>
-
-	<div class="popup Look hidden">
-		<ul>
-		</ul>
-	</div>
-
-	<div class="mark Gate"></div>
-	<div class="mark Look"></div>
-
-
-</body>
-
-
+		<div class="mark Gate"></div>
+		<div class="mark Look"></div>
+	</body>
 </html>
