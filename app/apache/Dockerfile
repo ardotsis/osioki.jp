@@ -1,0 +1,2 @@
+FROM httpd:alpine
+RUN apk add --no-cache tzdata
