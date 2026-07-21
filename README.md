@@ -9,3 +9,7 @@ Some files may be missing since the data was retrieved from the Wayback Machine.
 The latest version of website data includes a few fixes.
 
 Rest in peace レアちゃん.
+
+## todo
+
+[] Upload high resolution video data to YouTube.
