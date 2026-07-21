@@ -27,21 +27,21 @@
 
 
 					<li>
-						<a target="_parent" href="../MISSING/hell.html">
+						<a target="_parent" href="http://osioki.jp/hell/2624">
 
 							<div class="desc">
 								<time class="outline2px" datetime="2018-07-19">2018/07/19</time><br>
 								<h2 class="outline3px">ただいま</h2>
 							</div>
 
-							<img src="hell/wp-content/uploads/2018/07/180719_10603496-800x450.png">
+							<img src="http://osioki.jp/hell/wp-content/uploads/2018/07/180719_10603496-800x450.png">
 
 						</a>
 					</li>
 
 
 					<li>
-						<a target="_parent" href="../MISSING/hell.html">
+						<a target="_parent" href="http://osioki.jp/hell/2611">
 
 							<div class="desc">
 								<time class="outline2px" datetime="2018-07-19">2018/07/19</time><br>
@@ -55,42 +55,42 @@
 
 
 					<li>
-						<a target="_parent" href="../MISSING/hell.html">
+						<a target="_parent" href="http://osioki.jp/hell/2521">
 
 							<div class="desc">
 								<time class="outline2px" datetime="2018-06-20">2018/06/20</time><br>
 								<h2 class="outline3px">幸せになれる隠しコマンドがあるらしい</h2>
 							</div>
 
-							<img src="hell/wp-content/uploads/2018/06/180620_02910511-800x449.png">
+							<img src="http://osioki.jp/hell/wp-content/uploads/2018/06/180620_02910511-800x449.png">
 
 						</a>
 					</li>
 
 
 					<li>
-						<a target="_parent" href="../MISSING/hell.html">
+						<a target="_parent" href="http://osioki.jp/hell/2405">
 
 							<div class="desc">
 								<time class="outline2px" datetime="2018-04-06">2018/04/06</time><br>
 								<h2 class="outline3px">エルの楽園 [→Side:A→]</h2>
 							</div>
 
-							<img src="hell/wp-content/uploads/2018/04/180406_35174974-800x451.png">
+							<img src="http://osioki.jp/hell/wp-content/uploads/2018/04/180406_35174974-800x451.png">
 
 						</a>
 					</li>
 
 
 					<li>
-						<a target="_parent" href="../MISSING/hell.html">
+						<a target="_parent" href="http://osioki.jp/hell/2393">
 
 							<div class="desc">
 								<time class="outline2px" datetime="2018-04-04">2018/04/04</time><br>
 								<h2 class="outline3px">タイトルも無い</h2>
 							</div>
 
-							<img src="hell/wp-content/uploads/2018/04/180404_22896364-800x451.png">
+							<img src="http://osioki.jp/hell/wp-content/uploads/2018/04/180404_22896364-800x451.png">
 
 						</a>
 					</li>
