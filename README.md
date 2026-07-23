@@ -1,4 +1,4 @@
-# 「お仕置きですよ」- osioki.jp
+# 「お仕置きですよ」- [osioki.jp](https://osioki.jp)
 
 The website osioki.jp was originally created by レアちゃん.
 
