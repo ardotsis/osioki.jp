@@ -13,8 +13,8 @@ services:
     environment:
       - TZ="Asia/Tokyo"
     networks:
-      - docker-global
+      - shared
 
 networks:
-  docker-global:
+  shared:
     external: true
